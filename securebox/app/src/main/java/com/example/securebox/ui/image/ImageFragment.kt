@@ -1,4 +1,4 @@
-package com.pratthamarora.jetpacksecurity.ui.image
+package com.example.securebox.ui.image
 
 import android.Manifest
 import android.app.Activity
@@ -15,8 +15,8 @@ import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
-import com.pratthamarora.jetpacksecurity.R
-import com.pratthamarora.jetpacksecurity.util.Utility
+import com.example.securebox.R
+import com.example.securebox.util.Utility
 import kotlinx.android.synthetic.main.fragment_image.*
 
 class ImageFragment : Fragment() {

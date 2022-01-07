@@ -1,10 +1,10 @@
-package com.pratthamarora.jetpacksecurity.util
+package com.example.securebox.util
 
 import android.view.Gravity
 import android.view.View
 import androidx.coordinatorlayout.widget.CoordinatorLayout
 import com.google.android.material.snackbar.Snackbar
-import com.pratthamarora.jetpacksecurity.R
+import com.example.securebox.R
 
 object Utility {
     fun displaySnackBar(msg: String, view: View) {

@@ -1,4 +1,4 @@
-package com.pratthamarora.jetpacksecurity.ui.sharedpref
+package com.example.securebox.ui.sharedpref
 
 import android.os.Bundle
 import android.text.TextUtils
@@ -8,8 +8,8 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
-import com.pratthamarora.jetpacksecurity.R
-import com.pratthamarora.jetpacksecurity.util.Utility.displaySnackBar
+import com.example.securebox.R
+import com.example.securebox.util.Utility.displaySnackBar
 import kotlinx.android.synthetic.main.fragment_shared_pref.*
 
 class SharedPrefFragment : Fragment() {

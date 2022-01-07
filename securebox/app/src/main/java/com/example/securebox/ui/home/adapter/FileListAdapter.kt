@@ -1,11 +1,11 @@
-package com.pratthamarora.jetpacksecurity.ui.home.adapter
+package com.example.securebox.ui.home.adapter
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.pratthamarora.jetpacksecurity.R
-import com.pratthamarora.jetpacksecurity.data.FileEntity
+import com.example.securebox.R
+import com.example.securebox.data.FileEntity
 import kotlinx.android.synthetic.main.secure_file_list_view.view.*
 
 class FileListAdapter(

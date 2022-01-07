@@ -1,4 +1,4 @@
-package com.pratthamarora.jetpacksecurity.ui.home
+package com.example.securebox.ui.home
 
 import android.os.Bundle
 import android.util.Log
@@ -15,10 +15,10 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.afollestad.materialdialogs.MaterialDialog
 import com.afollestad.materialdialogs.customview.customView
 import com.afollestad.materialdialogs.customview.getCustomView
-import com.pratthamarora.jetpacksecurity.R
-import com.pratthamarora.jetpacksecurity.data.FileEntity
-import com.pratthamarora.jetpacksecurity.ui.home.adapter.FileListAdapter
-import com.pratthamarora.jetpacksecurity.util.Utility
+import com.example.securebox.R
+import com.example.securebox.data.FileEntity
+import com.example.securebox.ui.home.adapter.FileListAdapter
+import com.example.securebox.util.Utility
 import kotlinx.android.synthetic.main.detail_dialog.view.*
 import kotlinx.android.synthetic.main.fragment_home.*
 import kotlinx.android.synthetic.main.key_edit_dialog.*

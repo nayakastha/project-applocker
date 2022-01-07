@@ -1,4 +1,4 @@
-package com.pratthamarora.jetpacksecurity.util
+package com.example.securebox.util
 
 import android.content.Context
 import android.content.SharedPreferences
@@ -8,7 +8,7 @@ import androidx.security.crypto.MasterKeys
 import java.io.File
 
 object EncryptionHelper {
-    private const val prefName = "com.pratthamarora.jetpacksecurity.prefs"
+    private const val prefName = "com.example.securebox.prefs"
     private val masterKey = MasterKeys.getOrCreate(MasterKeys.AES256_GCM_SPEC)
 
     fun getSharedPrefs(context: Context): SharedPreferences {

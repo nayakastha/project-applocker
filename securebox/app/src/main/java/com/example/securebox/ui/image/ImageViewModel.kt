@@ -1,11 +1,11 @@
-package com.pratthamarora.jetpacksecurity.ui.image
+package com.example.securebox.ui.image
 
 import android.app.Application
 import android.graphics.Bitmap
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
-import com.pratthamarora.jetpacksecurity.util.EncryptionHelper
+import com.example.securebox.util.EncryptionHelper
 import kotlinx.coroutines.Dispatchers.IO
 import kotlinx.coroutines.launch
 import java.io.ByteArrayOutputStream

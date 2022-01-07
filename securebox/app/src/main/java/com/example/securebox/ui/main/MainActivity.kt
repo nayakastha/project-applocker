@@ -1,4 +1,4 @@
-package com.pratthamarora.jetpacksecurity.ui.main
+package com.example.securebox.ui.main
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -8,7 +8,7 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.google.android.material.bottomnavigation.BottomNavigationView
-import com.pratthamarora.jetpacksecurity.R
+import com.example.securebox.R
 
 class MainActivity : AppCompatActivity() {
 

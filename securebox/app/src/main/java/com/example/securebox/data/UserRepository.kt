@@ -1,4 +1,4 @@
-package com.pratthamarora.jetpacksecurity.data
+package com.example.securebox.data
 
 class UserRepository(private val appPreference: AppPreference) {
 

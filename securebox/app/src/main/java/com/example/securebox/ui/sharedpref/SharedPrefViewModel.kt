@@ -1,11 +1,11 @@
-package com.pratthamarora.jetpacksecurity.ui.sharedpref
+package com.example.securebox.ui.sharedpref
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
-import com.pratthamarora.jetpacksecurity.data.AppPreference
-import com.pratthamarora.jetpacksecurity.data.UserRepository
-import com.pratthamarora.jetpacksecurity.util.EncryptionHelper
+import com.example.securebox.data.AppPreference
+import com.example.securebox.data.UserRepository
+import com.example.securebox.util.EncryptionHelper
 
 class SharedPrefViewModel(application: Application) : AndroidViewModel(application) {
     private var sharedPrefs = EncryptionHelper.getSharedPrefs(application)

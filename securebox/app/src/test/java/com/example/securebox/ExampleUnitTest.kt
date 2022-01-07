@@ -1,4 +1,4 @@
-package com.pratthamarora.jetpacksecurity
+package com.example.securebox
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

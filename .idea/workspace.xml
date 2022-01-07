@@ -5,12 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2deaba7c-5d6a-46ee-a1ac-431fc2befe61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/securebox/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securebox/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/securebox/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securebox/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/securebox/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/securebox/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/androidTest/java/com/example/securebox/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/androidTest/java/com/example/securebox/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/securebox/app/src/androidTest/java/com/example/securebox/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/data/AppPreference.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/data/FileEntity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/data/UserRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/ui/file/FileFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/ui/file/FileViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/ui/home/HomeFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/ui/home/HomeViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/ui/home/adapter/FileListAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/ui/image/ImageFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/ui/image/ImageViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/ui/main/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/ui/sharedpref/SharedPrefFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/ui/sharedpref/SharedPrefViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/util/EncryptionHelper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/main/java/com/example/securebox/util/Utility.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/test/java/com/example/securebox/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/app/src/test/java/com/example/securebox/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/securebox/app/src/test/java/com/example/securebox/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securebox/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/securebox/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/securebox" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

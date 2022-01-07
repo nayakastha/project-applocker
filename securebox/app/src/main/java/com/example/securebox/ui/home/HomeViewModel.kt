@@ -1,4 +1,4 @@
-package com.pratthamarora.jetpacksecurity.ui.home
+package com.example.securebox.ui.home
 
 import android.app.Application
 import android.graphics.Bitmap
@@ -6,10 +6,10 @@ import android.graphics.BitmapFactory
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
-import com.pratthamarora.jetpacksecurity.data.AppPreference
-import com.pratthamarora.jetpacksecurity.data.FileEntity
-import com.pratthamarora.jetpacksecurity.data.UserRepository
-import com.pratthamarora.jetpacksecurity.util.EncryptionHelper
+import com.example.securebox.data.AppPreference
+import com.example.securebox.data.FileEntity
+import com.example.securebox.data.UserRepository
+import com.example.securebox.util.EncryptionHelper
 import kotlinx.coroutines.Dispatchers.IO
 import kotlinx.coroutines.launch
 import java.io.ByteArrayInputStream
