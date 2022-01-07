@@ -18,8 +18,12 @@ android {
 
     buildTypes {
         release {
+            signingConfig signingConfigs.debug
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            applicationIdSuffix kotlin_version
+            versionNameSuffix kotlin_version
+            multiDexEnabled true
         }
     }
     compileOptions {
